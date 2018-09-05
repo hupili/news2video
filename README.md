@@ -1,5 +1,10 @@
 # news2video
 
+Demo link: https://www.youtube.com/watch?v=W9z9JduEzbI
+
+* Convert a news article to video with Cantonese narrative
+* Convert a news article to video with Mandarin narrative
+
 ## Requirements
 
 * ffmpeg
